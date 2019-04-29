@@ -2,12 +2,10 @@
 # HW4 Report
 ## Sequence of moving-forward images in NTHU
 ![](https://i.imgur.com/gYK0hRD.jpg)
-我們選擇在台達的走廊拍攝，
-每走一步路拍一張，上圖是連續16張的結果
+我們選擇在台達的走廊拍攝，每走一步路拍一張，上圖是連續16張的結果。
 ## Feature extraction and matching results
 
-以下圖片為使用ORB作Feature extraction
-然後跟下一步做matching得到的結果
+以下圖片為使用ORB作Feature extraction，然後跟下一步做matching得到的結果。
 
 ![](https://i.imgur.com/UJyHlkW.jpg)
 
@@ -17,16 +15,14 @@
 
 ![](https://i.imgur.com/AYsms18.jpg)
 
-從上圖可以得知，整體matching的效果還不錯，
-很多特徵點也有被找出來，像是門緣或是牆上的公告。
+從上圖可以得知，整體matching的效果還不錯，很多特徵點也有被找出來，像是門緣或是牆上的公告。
  
 
 ## Infinite zooming effect
 {%youtube hUmGMsKa6cI %}
 
 ## Implement different feature extrators
-我們在兩張相差一步之間距離的相片比較其特徵，
-以下利用不同的演算法做feature extraction
+我們在兩張相差一步之間距離的相片比較其特徵，以下利用不同的演算法做feature extraction。
 
 * ORB
 
