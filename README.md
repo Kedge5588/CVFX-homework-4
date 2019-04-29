@@ -19,7 +19,7 @@
  
 
 ## Infinite zooming effect
-###影片1：
+### 影片1：
 (press the photo to watch the video)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/S4SaFe-VeBI/0.jpg)](https://www.youtube.com/watch?v=S4SaFe-VeBI)
