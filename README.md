@@ -19,7 +19,9 @@
  
 
 ## Infinite zooming effect
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hUmGMsKa6cI/0.jpg)](https://www.youtube.com/watch?v=hUmGMsKa6cI)
+影片1：
+(press the photo to watch the video)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/S4SaFe-VeBI/0.jpg)](https://www.youtube.com/watch?v=S4SaFe-VeBI)
 
 ## Implement different feature extrators
 我們在兩張相差一步之間距離的相片比較其特徵，以下利用不同的演算法做feature extraction。
@@ -60,3 +62,21 @@ SURF主要是優化SIFT的運算方法，減少繁瑣的運算。
 從上表可以得知，SIFT雖然計算速度較慢，但對特徵點的找尋有一定的成效，對於較細緻的stiching，SIFT方法有其優勢。SURF方法，在計算速度上進步了不少，也改進了很多SIFT在找特徵點上的缺點。ORB在各方面都勝於其他兩種方法，也找出圖片中較為明顯的特徵點。
 
 ## Enhance Effect
+影片1：
+(press the photo to watch the video)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/S4SaFe-VeBI/0.jpg)](https://www.youtube.com/watch?v=S4SaFe-VeBI)
+
+此影片裡的圖片是將每張圖與前一張圖做alignment得到的，像是b對a做alignment得到b_align，接著c對b做alignment得到c_align，然後使用x_align來製作影片。
+
+影片2：
+(press the photo to watch the video)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hUmGMsKa6cI/0.jpg)](https://www.youtube.com/watch?v=hUmGMsKa6cI)
+
+此影片裡的圖片是連續alignment所得到的，也就是b對a做alignment得到b_align，接著c對b_align做alignment得到c_align，一直下去。
+由於每次都是跟alignment過後的圖片再次進行alignment，所以影片看起來更加連續，效果也更好。
+
+影片3：
+(press the photo to watch the video)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4DLzLTrXbnw/0.jpg)](https://www.youtube.com/watch?v=4DLzLTrXbnw)
+
+我們使用影像編輯軟體稍微加上了一些特效，使得影片有了些許活潑，在轉場間也不再那麼僵硬。
