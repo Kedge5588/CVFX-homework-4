@@ -22,7 +22,7 @@
 ### 影片1：
 (press the photo to watch the video)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/S4SaFe-VeBI/0.jpg)](https://www.youtube.com/watch?v=S4SaFe-VeBI)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/H0YqZx-YQgc/0.jpg)](https://www.youtube.com/watch?v=H0YqZx-YQgc)
 
 ## Implement different feature extrators
 我們在兩張相差一步之間距離的相片比較其特徵，以下利用不同的演算法做feature extraction。
