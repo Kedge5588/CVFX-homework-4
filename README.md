@@ -73,7 +73,7 @@ SURF主要是優化SIFT的運算方法，減少繁瑣的運算。
 ### 影片2：
 (press the photo to watch the video)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hUmGMsKa6cI/0.jpg)](https://www.youtube.com/watch?v=hUmGMsKa6cI)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ccSoLSpL3wU/0.jpg)](https://www.youtube.com/watch?v=ccSoLSpL3wU)
 
 此影片裡的圖片是連續alignment所得到的，也就是b對a做alignment得到b_align，接著c對b_align做alignment得到c_align，一直下去。
 
